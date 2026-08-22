@@ -1,1 +1,2 @@
 # AI101-Assignment1
+From this quick assignment, I was able to figure out how Github and Google Colab link together, and also how to navigate both websites.  These websites are both new to me so I learned slightly more about coding than I already did.  The step that took the most effort for me was figuring out how to actually link the two, and being sure everything was getting saved to the proper location.  
